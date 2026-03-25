@@ -7,3 +7,5 @@ So i just automated the *Recon* Stage of hacking; I Enumerate on the targets whe
 Find something cool, or worth checking out
 
 Since they are reliable
+but there is a catch, Since im broke i just use nvidia nemotron for Watchdog with openrouter 
+Im currently thinking about a oracle cloud ampere 1 to Host my AI server there.
